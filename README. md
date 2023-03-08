@@ -1,1 +1,2 @@
-
+mkdir Ox00-vagrant
+mv 0-hello_ubuntu README.md 0x00-vagrant/
